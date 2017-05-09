@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Wow,such a beautiful resume",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snjun/Resume.git"
+  },
+  "keywords": [
+    "resume",
+    "snjun",
+    "web前端"
+  ],
+  "author": "Snjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snjun/Resume/issues"
+  },
+  "homepage": "https://github.com/Snjun/Resume#readme"
+}
