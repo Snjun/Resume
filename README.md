@@ -1,5 +1,5 @@
 # My Resume
-https://snjun.github.io/Resume/
+https://snjun.github.io/resume/
 
 ## Introduction
 
